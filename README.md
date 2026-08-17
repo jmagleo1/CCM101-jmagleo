@@ -1,43 +1,31 @@
-# Mission 1 – Welcome to the Cloud
+# CCM101 Cloud Computing Portfolio
 
-## Mission Overview
+## About Me
 
-Mission 1 is an onboarding activity designed to introduce the basic concepts and tools used by cloud infrastructure engineers.
+Hello! My name is Jelo S. Magleo. I am a Bachelor of Science in Information Technology student.
 
-## Objectives
+This repository contains my laboratory activities, documentation, screenshots, scripts, and reflections for CCM101 – Cloud Computing.
 
-- Access a Linux environment using KillerCoda.
-- Navigate the Linux file system.
-- Gather basic system information.
-- Create and organize files and directories.
-- Create Markdown documentation.
-- Create and manage a GitHub repository.
+## Course
 
-## Activities Performed
+**Subject:** CCM101 – Cloud Computing
 
-1. Launched an Ubuntu Linux Playground using KillerCoda.
-2. Created a Linux user account.
-3. Checked the username, working directory, and hostname.
-4. Gathered system information.
-5. Created and organized files and directories.
-6. Prepared a GitHub Cloud Computing portfolio.
+## Purpose of this Repository
 
-## Linux Commands Used
+This repository will serve as my Cloud Computing Portfolio throughout the semester.
 
-- `whoami`
-- `pwd`
-- `hostname`
-- `cat /etc/os-release`
-- `uname -r`
-- `lscpu`
-- `free -h`
-- `df -h`
-- `mkdir`
-- `nano`
-- `cat`
-- `ls`
-- `cd`
+It will contain my practical activities and documentation involving:
 
-## Skills Learned
+- Linux
+- Git and GitHub
+- Docker
+- Kubernetes
+- Cloud Infrastructure
+- Monitoring
+- Enterprise System Administration
 
-I learned the basics of Linux navigation, file management, system information gathering, Markdown documentation, and GitHub repository organization.
+## Laboratory Activities
+
+### Laboratory 01 – Welcome to the Cloud
+
+This laboratory focuses on Linux fundamentals, system information, file management, Markdown documentation, and GitHub portfolio creation.
