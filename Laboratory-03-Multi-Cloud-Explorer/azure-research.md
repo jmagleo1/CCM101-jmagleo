@@ -1,82 +1,85 @@
-# Microsoft Azure
+# Microsoft Azure Research
 
 ## Brief Overview
 
-Microsoft Azure is Microsoft's cloud computing platform. It provides services for virtual machines, storage, networking, databases, identity management, analytics, Artificial Intelligence, and application development.
+Microsoft Azure is Microsoft's cloud computing platform. It provides different services for computing, storage, networking, databases, security, AI, and application development.
 
-Azure is particularly relevant to organizations that already use Microsoft technologies. It can support cloud-only environments as well as hybrid environments where existing on-premises systems work together with cloud resources.
+One thing that makes Azure different is its strong connection with other Microsoft products. This can be useful for organizations that are already using Windows Server, Microsoft 365, and other Microsoft technologies.
 
 ## Global Infrastructure
 
-Azure operates through a worldwide infrastructure consisting of geographic areas, regions, and datacenters. Organizations can select an appropriate Azure region based on factors such as application performance, availability, compliance, and data residency.
+Azure has cloud infrastructure in different parts of the world. Its infrastructure is organized into regions and other geographic locations.
 
-Using geographically distributed infrastructure can also help organizations support users in different locations and design systems with improved availability.
+Companies can choose an Azure region depending on where their users are located, their performance requirements, and data residency requirements.
+
+Having different regions also helps organizations create applications that can serve users from different locations.
 
 ## Cloud Management Console
 
-The Azure portal is Microsoft's web-based management interface for Azure resources. It provides a centralized place where users can create, configure, monitor, and manage cloud services.
+The Azure portal is the main web-based management interface for Azure. Users can use it to create, configure, and monitor different cloud resources.
 
-For example, an administrator can use the Azure portal to create a virtual machine, configure a virtual network, manage storage, and control identity-related settings.
+For example, the portal can be used to create virtual machines, manage storage, configure networks, and manage identity services.
 
-### Azure Screenshot
-<img width="1919" height="953" alt="azure-homepage" src="https://github.com/user-attachments/assets/e617902c-6035-4da9-9fd9-d0e7020faf32" />
+## Azure Screenshot
+
+<img width="1919" height="953" alt="azure-homepage" src="https://github.com/user-attachments/assets/fbe0a820-0aba-4a5c-b61f-77a8f998a48a" />
 
 
 ## Four Core Services
 
 ### 1. Azure Virtual Machines
 
-Azure Virtual Machines provide virtualized computing resources that can run Windows or Linux operating systems. They can be used for application servers, development environments, testing, and other workloads.
+Azure Virtual Machines provide virtual computers that can run Windows or Linux. They can be used for application servers, testing, development, and other workloads.
 
 ### 2. Azure Blob Storage
 
-Azure Blob Storage is an object storage service designed for large amounts of unstructured data. Examples include documents, images, videos, backups, and application data.
+Azure Blob Storage is used for storing large amounts of unstructured data. Examples are images, videos, documents, backups, and application files.
 
 ### 3. Azure Virtual Network
 
-Azure Virtual Network provides networking capabilities for Azure resources. It allows organizations to create virtual networks, subnets, routes, and other network configurations.
+Azure Virtual Network provides networking for Azure resources. It can be used to create virtual networks, subnets, and network configurations.
 
 ### 4. Microsoft Entra ID
 
-Microsoft Entra ID is Microsoft's cloud identity and access management service. It helps organizations manage identities and control access to applications and resources.
+Microsoft Entra ID is Microsoft's identity and access management service. It helps organizations manage users and control access to applications and resources.
 
 ## Three Advantages
 
-### 1. Strong Microsoft Integration
+### 1. Microsoft Integration
 
-Azure works closely with Microsoft's existing technologies, making it a practical option for organizations already using products such as Windows Server and Microsoft 365.
+Azure works well with Microsoft products and services. This is useful for companies that already use Windows Server, Microsoft 365, or Microsoft identity services.
 
-### 2. Hybrid Cloud Support
+### 2. Hybrid Cloud
 
-Azure provides capabilities that allow organizations to connect existing infrastructure with cloud services. This is useful for companies that are not ready to move every workload to the cloud at once.
+Azure supports hybrid cloud environments. This means companies can connect their existing on-premises systems with cloud resources.
 
-### 3. Enterprise-Oriented Services
+### 3. Enterprise Support
 
-Azure provides services for identity, security, databases, computing, networking, analytics, and application development that can support large organizational environments.
+Azure has many services that can be used by large organizations, including computing, networking, databases, security, and identity management.
 
 ## Typical Enterprise Use Cases
 
 Azure can be used for:
 
-- Windows Server workloads
-- Enterprise application hosting
+- Windows Server applications
+- Enterprise systems
+- Database hosting
 - Hybrid cloud environments
-- Database systems
-- Virtual desktop solutions
-- Microsoft technology integration
-- Backup and disaster recovery
-- Artificial Intelligence and Machine Learning
+- Cloud storage
+- Virtual machines
 - Business applications
+- AI and Machine Learning
+- Backup and disaster recovery
 
-## Summary
+## My Observation
 
-Azure is especially attractive for organizations that already depend on Microsoft technologies. Its combination of cloud infrastructure, identity services, networking, and hybrid capabilities can make migration easier for established enterprise environments.
+For me, Azure is a good choice for organizations that are already using Microsoft technologies. Instead of completely changing their existing environment, they can connect their current systems with Azure services.
 
 ## Sources
 
 - Microsoft Azure: https://azure.microsoft.com/
 - Azure Global Infrastructure: https://azure.microsoft.com/en-us/explore/global-infrastructure/
-- Azure Portal Documentation: https://learn.microsoft.com/en-us/azure/azure-portal/
+- Azure Portal: https://learn.microsoft.com/en-us/azure/azure-portal/
 - Azure Virtual Machines: https://azure.microsoft.com/en-us/products/virtual-machines/
 - Azure Blob Storage: https://azure.microsoft.com/en-us/products/storage/blobs/
 - Azure Virtual Network: https://azure.microsoft.com/en-us/products/virtual-network/
