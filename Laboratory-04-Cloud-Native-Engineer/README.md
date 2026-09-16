@@ -20,22 +20,20 @@ In this laboratory, I learned the difference between Virtual Machines and contai
 ```bash
 docker --version
 docker info
-
 Checkpoint 4 – Nginx Deployment
 docker pull nginx
 docker run -d -p 8080:80 --name my-nginx nginx
 curl http://localhost:8080
-
 Checkpoint 5 – Container Lifecycle
 docker ps
 docker stop my-nginx
 docker ps
 docker rm my-nginx
 
-Skills Learned
+## Skills Learned
 
 I learned how to use basic Docker commands, deploy an Nginx container, map ports, and manage the container lifecycle. I also improved my skills in writing technical documentation using Markdown.
 
-Challenges Encountered
+## Challenges Encountered
 
 My main challenge was understanding the Docker commands and the port mapping -p 8080:80. By following the commands step by step and checking the terminal output, I was able to complete the activity.
